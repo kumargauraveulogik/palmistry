@@ -1,4 +1,3 @@
-palmistry
+Palmistry: Made Simple
 =========
-
-Eulogik Projects
+The Project is being developed under eulogik. Generates palmistry report by taking palm image.
